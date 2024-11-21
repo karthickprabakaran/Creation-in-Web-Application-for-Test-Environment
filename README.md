@@ -40,7 +40,7 @@ echo "Hello World";
 ### REG NUMBER:212222100021
 ### NAME: Karthick P
 ### Terminal:
-![image](https://github.com/user-attachments/assets/fc9d9baf-9d2d-4470-833a-e6bce67247b7)
+![image](https://github.com/karthickprabakaran/Creation-in-Web-Application-for-Test-Environment/blob/main/6f.png)
 ### Website:
 ![image](https://github.com/user-attachments/assets/f63dc64f-c2ea-4aa8-9d6c-02b56b96adc1)
 
